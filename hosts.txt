@@ -1,0 +1,4 @@
+# This blocklist is a community effort to help manage households being inundated by far right content
+# Load it into your firewall, DNS, or /etc/hosts file
+# Contributions welcome: https://github.com/chris-short/us-far-right-blocklist
+#
