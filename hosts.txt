@@ -13,6 +13,7 @@
 *.cbn.com
 *.charliekirk.com
 *.cnav.news
+*.collecttrumpcards.com
 *.commentary.org
 *.conservativereview.com
 *.csmonitor.com
